@@ -1,0 +1,16 @@
+Hamza
+Ali
+FA18-BSCS-0001
+
+Osama
+Ishaq
+FA18-BSCS-0002
+
+Saad
+Ishaq
+FA18-BSCS-0003
+
+Daniel
+Jefferson
+FA18-BSCS-0004
+
